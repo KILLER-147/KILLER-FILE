@@ -1,4 +1,4 @@
 #Developer-HExX-XD#
 import os
-import nn
-nn.loging()
+import nn.cpython-311.so
+nn.cpython-311.so.loging()
